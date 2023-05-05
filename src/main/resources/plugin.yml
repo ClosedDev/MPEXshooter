@@ -1,0 +1,4 @@
+name: MPEXshooter
+version: 1.0
+main: io.github.kuroka3.mpexshooter.MPEXshooter
+api-version: 1.19
